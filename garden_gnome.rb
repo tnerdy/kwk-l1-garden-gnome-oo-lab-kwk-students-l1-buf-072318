@@ -1,5 +1,5 @@
 # Code your instances here
 class GardenGnome 
-attr  
+attr_reader  
   
 end  
