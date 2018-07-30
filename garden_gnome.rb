@@ -1,5 +1,5 @@
 # Code your instances here
 class GardenGnome 
-attr_accessor :name, :age, :glutenallergy
+attr_accessor :name, :age, :g
   
 end  
